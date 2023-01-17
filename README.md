@@ -1,5 +1,5 @@
 # Terraform sample
-The repository contains the very simple terraform example which I am creating for my learning! Download the terraform from the following link  
+The repository contains the very simple terraform example which, I am creating for my learning! Download the terraform from the following link  
 https://developer.hashicorp.com/terraform/downloads  
 if you are using windows just add the exe path to enviornment variable to run terraform command
 
